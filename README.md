@@ -1,2 +1,8 @@
 # LEGO_Database
-SQL LEGO database (full)
+# База данных LEGO для дипломного проекта
+# Инструкция
+1. Откройте PGAdmin
+2. Создайте пустую базу данных `lego_database`
+3. Правой кнопкой на ней → **Restore**
+4. Выберите файл `LEGO.backup`
+5. Нажмите **Restore**
